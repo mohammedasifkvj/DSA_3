@@ -70,6 +70,7 @@ class BinarySearchTree {
         }
     }
 
+// This is Breadth First Search
     levelOrder() {
         const queue = []
         queue.push(this.root)
