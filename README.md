@@ -59,7 +59,7 @@ This repository serves as a comprehensive resource for understanding and impleme
 1. **Clone the repository**
    ```bash
    git clone https://github.com/mohammedasifkvj/DSA_3.git
-   cd data-structures
+   cd DSA_3
    ```
 
 2. **Install dependencies** (if required)
