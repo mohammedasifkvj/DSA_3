@@ -1,6 +1,6 @@
 # Data Structures: Trees, Tries, Heaps, and Graphs
 ---------------------------------------------------
-This repository contains implementations of fundamental data structures in JavaScript, designed for learning and practical application in various algorithmic problems. It includes Trees, Tries, Heaps, and Graphs, each with essential operations and example use cases.
+This repository contains implementations of fundamental data structures using JavaScript, designed for learning and practical application in various algorithmic problems. It includes Trees, Tries, Heaps, and Graphs, each with essential operations and example use cases.
 
 ## Table of Contents
 --------------------
@@ -10,8 +10,6 @@ This repository contains implementations of fundamental data structures in JavaS
 - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About the Repository
 -----------------------
@@ -28,7 +26,7 @@ This repository serves as a comprehensive resource for understanding and impleme
   - Binary Search Tree (BST)
   - AVL Tree (Self-balancing BST)
 
-#-## 2. Trie (Prefix Tree)
+### 2. Trie (Prefix Tree)
 -------------------------
 - **Description**: A tree-like structure used for efficient storage and retrieval of strings, especially useful for prefix-based searching.
 - **Operations**: Insertion, Search, Deletion, Auto-complete, Prefix search
