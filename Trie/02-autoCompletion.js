@@ -72,4 +72,3 @@ class TrieNode {
   console.log(trie.getAutoComplete("ban")); // Output: ["banana", "band", "bandana"]
   console.log(trie.getAutoComplete("bat")); // Output: ["bat"]
   console.log(trie.getAutoComplete("cat")); // Output: []
-    
